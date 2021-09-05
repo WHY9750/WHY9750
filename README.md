@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-# About Me
+## About Me
 I'm a firm believer that GitHub is the modern social media. 
 
+## GitHub Memes
 ![CodingMeme](https://github.com/WHY9750/WHY9750/blob/main/Memes/Coding.png)
 ![SocialMediaMeme](https://github.com/WHY9750/WHY9750/blob/main/Memes/GithubFollowers.png)
 
